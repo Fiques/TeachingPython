@@ -10,3 +10,5 @@
 * [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 
 ### Онлайн курси
+* [https://www.udemy.com](https://www.udemy.com/courses/search/?q=python&src=ukw&lang=en&price=price-free)
+* [https://www.coursera.org](https://www.coursera.org/courses?languages=en&query=python)
